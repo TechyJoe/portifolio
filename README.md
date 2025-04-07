@@ -26,10 +26,10 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [ForecastX](https://github.com/TechyJoe/ForecastX) | Time series forecasting and trend analysis for financial data. | Python, Prophet, Matplotlib |
-| [Data Vault](https://github.com/TechyJoe/Data-Vault) | Secure cloud-based data pipeline with real-time reporting. | Azure, Power BI, SQL |
-| [Credit Risk Analyzer](https://github.com/TechyJoe/Credit-Risk-Analyzer) | Classification model for predicting loan default risks. | Scikit-Learn, Pandas, Flask |
-| [Retail Insights Dashboard](https://github.com/TechyJoe/Retail-Dashboard) | Interactive dashboard for sales performance analytics. | Power BI, SQL, DAX |
+| [Customer Churn Prediction](https://github.com/TechyJoe/ForecastX) | Analyzes customer data to predict churn and improve retention.. | Jupyter notebook , scikit-learn |
+| [Salary Prediction](https://github.com/TechyJoe/Data-Vault) | Uses regression models to forecast salaries based on experience and roles. | Jupyter notebook , scikit-learn |
+| [Surgical Assessment Risk](https://github.com/TechyJoe/Credit-Risk-Analyzer) | Evaluates surgical risk using patient records to assist doctors in mitigating complications.. | Scikit-Learn, Pandas, Flask |
+| [Loan Default Prediction](https://github.com/TechyJoe/Retail-Dashboard) | Predicts the likelihood of loan default to support risk assessment in finance.. | Jupyter Notebook, machine learning, flask|
 
 > 🧩 _More projects on the way — check back soon!_
 
