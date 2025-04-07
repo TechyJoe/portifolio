@@ -26,12 +26,14 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Customer Churn Prediction](https://github.com/TechyJoe/ForecastX) | Analyzes customer data to predict churn and improve retention.. | Jupyter notebook , scikit-learn |
-| [Salary Prediction](https://github.com/TechyJoe/Data-Vault) | Uses regression models to forecast salaries based on experience and roles. | Jupyter notebook , scikit-learn |
-| [Surgical Assessment Risk](https://github.com/TechyJoe/Credit-Risk-Analyzer) | Evaluates surgical risk using patient records to assist doctors in mitigating complications.. | Scikit-Learn, Pandas, Flask |
-| [Loan Default Prediction](https://github.com/TechyJoe/Retail-Dashboard) | Predicts the likelihood of loan default to support risk assessment in finance.. | Jupyter Notebook, machine learning, flask|
+| [Customer Churn Prediction](https://github.com/TechyJoe/customer_churn_prediction) | Analyzes customer data to predict churn and improve retention.. | Jupyter notebook , scikit-learn |
+| [Salary Prediction](https://github.com/TechyJoe/salary_prediction) | Uses regression models to forecast salaries based on experience and roles. | Jupyter notebook , scikit-learn |
+| [Surgical Assessment Risk](https://github.com/TechyJoe/Surgery_Assessment_Risk) | Evaluates surgical risk using patient records to assist doctors in mitigating complications.. | Scikit-Learn, Pandas, Flask |
+| [Loan Default Prediction](https://github.com/TechyJoe/loan_default_prediction) | Predicts the likelihood of loan default to support risk assessment in finance.. | Jupyter Notebook, machine learning, flask|
+| [Stock Price Prediction](https://github.com/TechyJoe/Stock_Price_Prediction) | Predicts future stock prices using machine learning techniques. | Python, Jupyter notebook , scikit-learn |
+> 🚀 These are just a few — explore more projects on my GitHub!
 
-> 🧩 _More projects on the way — check back soon!_
+
 
 ---
 
