@@ -49,8 +49,8 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/JosephJuma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:josejuma397@example.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/joseph-juma-867511355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:josejuma397@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/TechyJoe"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
