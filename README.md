@@ -49,8 +49,8 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/joshmadakor/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://linkedin.com/in/JosephJuma/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:josejuma397@example.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/></a>
   <a href="https://github.com/TechyJoe"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
 
