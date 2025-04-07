@@ -38,7 +38,12 @@
 ---
 
 ### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechyJoe&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyJoe&layout=compact&theme=radical" alt="Top Langs" width="48%"/>
+</p>
 
+---
 
 
 ### 🤝 Connect With Me
