@@ -16,7 +16,7 @@
 ### 🛠️ Tech Stack
 
 - **Languages:** Python, SQL
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib, Seaborn
+- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Databases:** PostgreSQL, MySQL
 - **Tools & Platforms:** Power BI, Jupyter, VS Code, Azure, Git, Streamlit, Flask
 
