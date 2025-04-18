@@ -7,7 +7,7 @@
 
 - 🎓 Computer Science graduate from Karatina University
 - 💼 Passionate about transforming data into meaningful insights
-- 🧠 Focused on data science, machine learning, and cloud technologies
+- 🧠 Focused on data science and cloud technologies
 - 🌐 Exploring real-world finance and analytics projects
 - 📍 Currently working on end-to-end data projects using Python, SQL, Azure, and Power BI
 
