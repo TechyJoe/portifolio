@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Joseph Juma 👋</h1>
-<h3 align="center">Data Analyst | Problem Solver | Web developer</h3>
+<h3 align="center">Data Analyst | Data Scientist | Problem Solver.</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 
 - 🎓 Computer Science graduate from Karatina University
 - 💼 Passionate about transforming data into meaningful insights
-- 🧠 Focused on data science and cloud technologies
+- 🧠 Focused on data science, machine learning and cloud technologies
 - 🌐 Exploring real-world finance and analytics projects
 - 📍 Currently working on end-to-end data projects using Python, SQL, Azure, and Power BI
 
@@ -15,8 +15,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, SQL ,Javascript
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn
+- **Languages:** Python, SQL 
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
 - **Databases:** PostgreSQL, MySQL
 - **Tools & Platforms:** Power BI, Jupyter, VS Code, Azure, Git
 ---
