@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Joseph Juma 👋</h1>
-<h3 align="center">Data Scientist | Analyst | Problem Solver</h3>
+<h3 align="center">Data Analyst | Problem Solver | Web developer</h3>
 
 ---
 
@@ -15,11 +15,10 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Python, SQL
-- **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Languages:** Python, SQL ,Javascript
+- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn
 - **Databases:** PostgreSQL, MySQL
-- **Tools & Platforms:** Power BI, Jupyter, VS Code, Azure, Git, Streamlit, Flask
-
+- **Tools & Platforms:** Power BI, Jupyter, VS Code, Azure, Git
 ---
 
 ### 📂 Featured Projects
