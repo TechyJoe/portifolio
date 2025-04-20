@@ -64,6 +64,13 @@
 | [Stock Price Prediction](#) | Predicts future stock prices using machine learning techniques. | Python, Jupyter Notebook, Scikit-learn |
 
 ---
+Want to see more of my work? Check out my full portfolio on GitHub:
+
+<p align="center">
+  <a href="https://github.com/TechyJoe?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ### 📈 GitHub Stats
 <p align="center">
