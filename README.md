@@ -1,6 +1,11 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/TechyJoe/TechyJoe/main/IMG-20250313-WA0091.jpg" alt="Joseph Juma" width="150" style="border-radius:50%;" />
+  <img src="https://github.com/TechyJoe/portifolio/blob/main/IMG-20250313-WA0091.jpg?raw=true" 
+       alt="Joseph Juma" 
+       width="150" 
+       height="150" 
+       style="border-radius: 50%; border: 3px solid #00BFFF; object-fit: cover;" />
 </p>
+
 <h1 align="center">Hi there, I'm Joseph Juma 👋</h1>
 <h3 align="center">Data Analyst | Data Scientist | Problem Solver.</h3>
 
