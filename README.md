@@ -1,38 +1,67 @@
+<p align="center">
+  <img src="https://your-image-url-here.jpg" alt="Joseph Juma" width="150" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi there, I'm Joseph Juma 👋</h1>
 <h3 align="center">Data Analyst | Data Scientist | Problem Solver.</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/joseph-juma-867511355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josejuma397@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+254115232795">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/TechyJoe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-### 👨‍💻 About Me
+### 🙋‍♂️ About Me
 
-- 🎓 Computer Science graduate from Karatina University
-- 💼 Passionate about transforming data into meaningful insights
-- 🧠 Focused on data science, machine learning and cloud technologies
-- 🌐 Exploring real-world finance and analytics projects
-- 📍 Currently working on end-to-end data projects using Python, SQL, Azure, and Power BI
+- 🎓 Computer Science graduate from Karatina University  
+- 💼 Passionate about transforming data into meaningful insights  
+- 🧠 Focused on data science, machine learning, and cloud technologies  
+- 🌍 Exploring real-world finance and analytics projects  
+- 📍 Currently working on end-to-end data projects using Python, SQL, Azure, and Power BI  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-- **Languages:** Python, SQL 
-- **Data Science & ML:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn
-- **Databases:** PostgreSQL, MySQL
-- **Tools & Platforms:** Power BI, Jupyter, VS Code, Azure, Git
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-2D3F73?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
 ---
 
-### 📂 Featured Projects
+### 📁 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Customer Churn Prediction](https://github.com/TechyJoe/customer_churn_prediction) | Analyzes customer data to predict churn and improve retention.. | Jupyter notebook , scikit-learn |
-| [Salary Prediction](https://github.com/TechyJoe/salary_prediction) | Uses regression models to forecast salaries based on experience and roles. | Jupyter notebook , scikit-learn |
-| [Surgical Assessment Risk](https://github.com/TechyJoe/Surgery_Assessment_Risk) | Evaluates surgical risk using patient records to assist doctors in mitigating complications.. | Scikit-Learn, Pandas, Flask |
-| [Loan Default Prediction](https://github.com/TechyJoe/loan_default_prediction) | Predicts the likelihood of loan default to support risk assessment in finance.. | Jupyter Notebook, machine learning, flask|
-| [Stock Price Prediction](https://github.com/TechyJoe/Stock_Price_Prediction) | Predicts future stock prices using machine learning techniques. | Python, Jupyter notebook , scikit-learn |
-> 🚀 These are just a few — explore more projects on my GitHub!
-
-
+| [Customer Churn Prediction](#) | Analyzes customer data to predict churn and improve retention. | Jupyter Notebook, Scikit-learn |
+| [Salary Prediction](#) | Uses regression models to forecast salaries based on experience and roles. | Jupyter Notebook, Scikit-learn |
+| [Surgical Assessment Risk](#) | Evaluates surgical risk using patient records to assist doctors in mitigating complications. | Scikit-Learn, Pandas, Flask |
+| [Loan Default Prediction](#) | Predicts the likelihood of loan default to support risk assessment in finance. | Jupyter Notebook, Machine Learning, Flask |
+| [Stock Price Prediction](#) | Predicts future stock prices using machine learning techniques. | Python, Jupyter Notebook, Scikit-learn |
 
 ---
 
@@ -44,22 +73,4 @@
 
 ---
 
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/joseph-juma-867511355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:josejuma397@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/TechyJoe"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
-</p>
-
----
-
-<!--
-**TechyJoe/TechyJoe** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-💡 Tips:
-- Share insights about current or upcoming projects
-- Add blogs or learning paths
-- Customize the look using shields.io badges or GitHub stat cards
--->
+![Profile Views](https://komarev.com/ghpvc/?username=TechyJoe&label=PROFILE+VIEWS)
