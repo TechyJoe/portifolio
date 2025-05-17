@@ -28,11 +28,11 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 Computer Science graduate from Karatina University  
-- 💼 Passionate about transforming data into meaningful insights  
-- 🧠 Focused on data science, machine learning, and cloud technologies  
-- 🌍 Exploring real-world finance and analytics projects  
-- 📍 Currently working on end-to-end data projects using Python, SQL, Azure, and Power BI  
+- 🎓 Computer Science graduate.  
+- 💼 Passionate about transforming data into meaningful insights.  
+- 🧠 Focused on data engineering, data analytics, and cloud technologies.  
+- 🌍 Exploring real-world finance and analytics projects.  
+- 📍 Currently working on end-to-end data projects using Python, SQL, Azure, Power BI and data engineering tools such as airflow. 
 
 ---
 
@@ -45,7 +45,6 @@
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-2D3F73?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
