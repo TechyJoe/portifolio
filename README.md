@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Joseph Juma 👋</h1>
-<h3 align="center">Data Analyst | Data Scientist | Problem Solver.</h3>
+<h3 align="center">Data Engineer | Data analyst | Problem Solver.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joseph-juma-867511355/">
